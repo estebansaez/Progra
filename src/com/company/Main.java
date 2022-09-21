@@ -19,7 +19,7 @@ public class Main {
         }else{
             System.out.println("La palabra no es palindromo");
         }
-        System.out.println("Segundo comiinttte");
+        System.out.println("Segundo comit");
     }
 
 }
